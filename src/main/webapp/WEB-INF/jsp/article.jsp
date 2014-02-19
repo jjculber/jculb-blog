@@ -8,7 +8,7 @@
 }
 body {
 	margin: 0px;
-	background-color: #2ecc71;
+	background-color: #80cc80;
 }
 .top_center {
 	margin: 0 auto;
